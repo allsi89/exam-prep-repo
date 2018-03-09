@@ -6,3 +6,7 @@ This is
 Repo made for exercises!
 
 Hello! Changing this file in master :)
+
+Here I change the file again to create conflicts.
+
+I'm usually a very easy going person. I don't like conflicts.
